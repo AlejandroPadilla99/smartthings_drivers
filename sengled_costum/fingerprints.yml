@@ -1,0 +1,6 @@
+zigbeeManufacturer:
+  - id: "sengled/E11-G13"
+    deviceLabel: Sengled Light
+    manufacturer: sengled
+    model: E11-G13
+    deviceProfileName: zigbee-custome-switch

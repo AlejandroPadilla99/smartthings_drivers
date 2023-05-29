@@ -1,0 +1,5 @@
+# config.yml
+name: 'Zigbee custome switch'
+packageKey: 'zigbee-custome-switch'
+permissions:
+  zigbee: {}
