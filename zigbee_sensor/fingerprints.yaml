@@ -1,0 +1,11 @@
+zigbeeManufacturer:
+  - id: "Samjin/multi"
+    deviceLabel: Multipurpose Sensor
+    manufacturer: Samjin
+    model: multi
+    deviceProfileName: sensor
+  - id: "eWeLink/DS01"
+    deviceLabel: eWeLink Open/Closed Sensor
+    manufacturer: eWeLink
+    model: DS01
+    deviceProfileName: sonoff_sensor

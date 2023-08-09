@@ -1,0 +1,5 @@
+name: 'Zigbee Contact'
+packageKey: 'zigbee-contact'
+permissions:
+  zigbee: {}
+description: "Alejandro Padilla custom drivers"
