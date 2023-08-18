@@ -1,0 +1,6 @@
+zigbeeManufacturer:
+  - id: "eWeLink/MS01"
+    deviceLabel: eWeLink Motion Sensor
+    manufacturer: eWeLink
+    model: MS01
+    deviceProfileName: motion_battery
